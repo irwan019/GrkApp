@@ -27,12 +27,15 @@ pip install -r requirements.txt
 
 python gui11.py
 
+| Gas | Normal     | Waspada         | Tinggi     |
+| --- | ---------- | --------------- | ---------- |
+| CO₂ | < 450 ppm  | 450 – 500 ppm   | > 500 ppm  |
+| CH₄ | < 1950 ppb | 1950 – 2000 ppb | > 2000 ppb |
 
-Ambang Batas CO₂ & CH₄ (Luar Ruangan)
-Gas	     Normal	       Waspada	         Tinggi
-CO₂	   < 450 ppm	   450 – 500 ppm	    > 500 ppm
-CH₄	   < 1950 ppb	  1950 – 2000 ppb	    > 2000 ppb
-
+Keterangan:
+CO₂: Konsentrasi atmosfer global saat ini ~420–425 ppm.
+CH₄: Konsentrasi atmosfer global saat ini ~1900 ppb.
+Kategori ini bersifat indikatif untuk udara luar ruangan, bukan standar regulasi.
 Sumber: Global Carbon Project, WMO
 
 Referensi
