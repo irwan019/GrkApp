@@ -15,16 +15,16 @@ Menampilkan:
 git clone https://github.com/username/GrkApp.git
 
 2. Masuk ke folder proyek:
-
+```bash
 cd GrkApp
 
 3. Install dependensi:
-
+```bash
 pip install -r requirements.txt
 
 
 ## Menjalankan Aplikasi
-
+```bash
 python gui11.py
 
 
