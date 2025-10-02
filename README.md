@@ -27,6 +27,8 @@ pip install -r requirements.txt
 
 python gui11.py
 
+Ambang Batas CO₂ & CH₄ (Luar Ruangan)
+
 | Gas | Normal     | Waspada         | Tinggi     |
 | --- | ---------- | --------------- | ---------- |
 | CO₂ | < 450 ppm  | 450 – 500 ppm   | > 500 ppm  |
