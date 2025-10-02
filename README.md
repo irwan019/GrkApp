@@ -22,6 +22,18 @@ cd GrkApp
 
 pip install -r requirements.txt
 
+## Instalasi
+
+```bash
+# Clone repository
+git clone https://github.com/username/GrkApp.git
+
+# Masuk ke folder proyek
+cd GrkApp
+
+# Install dependensi
+pip install -r requirements.txt
+
 
 ## Menjalankan Aplikasi
 
